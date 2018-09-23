@@ -1,0 +1,22 @@
+{
+  "name": "leargingvuer",
+  "version": "1.0.0",
+  "description": "学习vue插件，用来生成模板\r 1. 介绍\r   vue是一个进阶式的框架 \r     框架：vue 核心的是库，拥有完整的解决方案，我们写好就可以放进去跑了\r     库： jquery underscore zepto animate.css ，而库只能是一种被动的方式，选择某项功能\r     进阶式: 通过其内在的生态搭建一套可用式功能的框架 vuejs + vue-router + vuex(state管理)\r 2.vue特点\r     vue只关注视图（view）\r     易学，轻量，灵活\r     适合于移动端\r     渐进式框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a524631266/vue-.git"
+  },
+  "author": "zhangll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a524631266/vue-/issues"
+  },
+  "homepage": "https://github.com/a524631266/vue-#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
+}
